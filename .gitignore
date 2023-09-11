@@ -1,0 +1,51 @@
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*_flymake.*
+*~.nib/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.project
+.tmproj
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore database credentials
+*.db
+*.sqlite3
+
+# Ignore sensitive information
+*.key
+*.pem
+*.p12
+*.pem
+*.cer
+*.csr
+*.crt
+*.jks
+*.pfx
+
+# Ignore cache and temporary files
+__pycache__/
+*.bak
+*.swp
+*.tmp
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the virtual environment
+venv/
+env/
