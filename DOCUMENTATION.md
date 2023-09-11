@@ -80,7 +80,7 @@
 ### Create a New Person
 - Endpoint: `/api`
 - Request:
-   ```http
+    ```http
     POST /api/persons/ HTTP/1.1
     Host: localhost:8000
     Content-Type: application/json
@@ -90,7 +90,7 @@
         "age": 25,
         "email": "alicejohnson@example.com"
     }
-    ```
+     ```
 - Response:
     ```json
     {
