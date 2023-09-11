@@ -81,7 +81,7 @@
 - Endpoint: `/api`
 - Request:
     ```http
-    POST /api/persons/ HTTP/1.1
+    POST /api HTTP/1.1
     Host: localhost:8000
     Content-Type: application/json
 
