@@ -42,7 +42,7 @@ Follow the instructions below to get the Person API up and running on your local
 1. Run the following command to start the API:
     ```shell
     python manage.py runserver
-2. The API will be accessible at http://localhost:8000/
+2. The API will be accessible at https://endpoint-dez.onrender.com/api/
 
 ### API Endpoints
 - POST /api/: Creates a new person.
@@ -50,4 +50,4 @@ Follow the instructions below to get the Person API up and running on your local
 - PUT /api/{id}/: Updates an existing person.
 - DELETE /api/{id}/: Deletes a person.
 
-Please refer to the API documentation or interact with the API using tools like Postman to explore these endpoints in detail. Use this to link to access the test script on postman: 
+Please refer to the API documentation or interact with the API using tools like Postman to explore these endpoints in detail. Use this to link to access the test script on postman: https://documenter.getpostman.com/view/25680408/2s9YC1XuMF

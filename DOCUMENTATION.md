@@ -9,7 +9,7 @@
    - Example Request:
      ```http
      GET /api/123/ HTTP/1.1
-     Host: localhost:8000
+     Host: https://endpoint-dez.onrender.com/api/123/
      ```
 
 - Endpoint: `/api`
@@ -18,7 +18,7 @@
    - Example Request:
      ```http
      POST /api HTTP/1.1
-     Host: localhost:8000
+     Host: https://endpoint-dez.onrender.com/api/
      Content-Type: application/json
 
      {
@@ -34,7 +34,7 @@
    - Example Request:
      ```http
      PUT /api/123/ HTTP/1.1
-     Host: localhost:8000
+     Host: https://endpoint-dez.onrender.com/api/123/
      Content-Type: application/json
 
      {
@@ -50,7 +50,7 @@
    - Example Request:
      ```http
      DELETE /api/123/ HTTP/1.1
-     Host: localhost:8000
+     Host: https://endpoint-dez.onrender.com/api/1/
      ```
 
 ### Responses
@@ -82,7 +82,7 @@
 - Request:
     ```http
     POST /api HTTP/1.1
-    Host: localhost:8000
+    Host: https://endpoint-dez.onrender.com/api/
     Content-Type: application/json
 
     {
