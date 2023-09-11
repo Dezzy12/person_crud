@@ -51,3 +51,6 @@ Follow the instructions below to get the Person API up and running on your local
 - DELETE /api/{id}/: Deletes a person.
 
 Please refer to the API documentation or interact with the API using tools like Postman to explore these endpoints in detail. Use this to link to access the test script on postman: https://documenter.getpostman.com/view/25680408/2s9YC1XuMF
+
+### NB:
+- Lastly, images for  the UML and ER Diagram are in root directory with the base name `person` 
