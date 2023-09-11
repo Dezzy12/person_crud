@@ -21,9 +21,6 @@
 logs/
 *.log
 
-# Ignore database credentials
-*.db
-*.sqlite3
 
 # Ignore sensitive information
 *.key
